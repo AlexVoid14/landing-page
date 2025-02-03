@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../practice site"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html-boilerplate"
+	}
+}
